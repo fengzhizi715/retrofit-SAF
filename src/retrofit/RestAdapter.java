@@ -249,7 +249,6 @@ public class RestAdapter {
 		}
 
 		@SuppressWarnings("unchecked")
-		//
 		@Override
 		public Object invoke(Object proxy, Method method, final Object[] args)
 				throws Throwable {
